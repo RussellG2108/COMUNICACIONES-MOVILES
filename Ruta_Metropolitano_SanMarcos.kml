@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Drive Test Expreso 2 - Claro</name>
+  <Style id="buena_senal"><IconStyle><color>ff00ff00</color></IconStyle></Style> 
+  <Style id="regular_senal"><IconStyle><color>ff00ffff</color></IconStyle></Style> 
+  <Style id="mala_senal"><IconStyle><color>ff0000ff</color></IconStyle></Style> 
+
+  <Placemark>
+    <name>-78 dBm (5G)</name>
+    <description>Hora: 17:49 | RSRP: -78 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0594,-11.9802,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-101 dBm (5G)</name>
+    <description>Hora: 17:49 | RSRP: -101 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0571,-11.9865,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-81 dBm (5G)</name>
+    <description>Hora: 17:50 | RSRP: -81 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0545,-11.995,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-79 dBm (5G)</name>
+    <description>Hora: 17:50 | RSRP: -79 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.052,-12.0012,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-123 dBm (5G)</name>
+    <description>Hora: 17:51 | RSRP: -123 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0465,-12.015,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-109 dBm (5G)</name>
+    <description>Hora: 17:52 | RSRP: -109 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0421,-12.0294,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-101 dBm (LTE)</name>
+    <description>Hora: 17:52 | RSRP: -101 dBm | Tecnología: LTE</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0398,-12.0355,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-97 dBm (5G)</name>
+    <description>Hora: 17:53 | RSRP: -97 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.036,-12.0401,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-98 dBm (LTE)</name>
+    <description>Hora: 17:54 | RSRP: -98 dBm | Tecnología: LTE</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0345,-12.045,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-84 dBm (5G)</name>
+    <description>Hora: 17:56 | RSRP: -84 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.033,-12.052,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-78 dBm (5G)</name>
+    <description>Hora: 17:56 | RSRP: -78 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0315,-12.058,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-90 dBm (5G)</name>
+    <description>Hora: 17:57 | RSRP: -90 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.03,-12.0645,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-95 dBm (5G)</name>
+    <description>Hora: 17:58 | RSRP: -95 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0285,-12.071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-88 dBm (5G)</name>
+    <description>Hora: 17:58 | RSRP: -88 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.027,-12.075,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-97 dBm (5G)</name>
+    <description>Hora: 17:59 | RSRP: -97 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.025,-12.0805,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-93 dBm (5G)</name>
+    <description>Hora: 17:59 | RSRP: -93 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0235,-12.084,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-91 dBm (5G)</name>
+    <description>Hora: 18:00 | RSRP: -91 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-89 dBm (5G)</name>
+    <description>Hora: 18:00 | RSRP: -89 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-122 dBm (5G)</name>
+    <description>Hora: 18:01 | RSRP: -122 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-77 dBm (5G)</name>
+    <description>Hora: 18:02 | RSRP: -77 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-70 dBm (5G)</name>
+    <description>Hora: 18:02 | RSRP: -70 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-104 dBm (5G)</name>
+    <description>Hora: 18:03 | RSRP: -104 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-93 dBm (5G)</name>
+    <description>Hora: 18:03 | RSRP: -93 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-80 dBm (5G)</name>
+    <description>Hora: 18:04 | RSRP: -80 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-82 dBm (5G)</name>
+    <description>Hora: 18:04 | RSRP: -82 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-74 dBm (5G)</name>
+    <description>Hora: 18:05 | RSRP: -74 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-83 dBm (5G)</name>
+    <description>Hora: 18:05 | RSRP: -83 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-81 dBm (5G)</name>
+    <description>Hora: 18:06 | RSRP: -81 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-77 dBm (5G)</name>
+    <description>Hora: 18:06 | RSRP: -77 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-88 dBm (5G)</name>
+    <description>Hora: 18:07 | RSRP: -88 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-98 dBm (5G)</name>
+    <description>Hora: 18:07 | RSRP: -98 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-90 dBm (5G)</name>
+    <description>Hora: 18:08 | RSRP: -90 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-82 dBm (5G)</name>
+    <description>Hora: 18:08 | RSRP: -82 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-77 dBm (5G)</name>
+    <description>Hora: 18:09 | RSRP: -77 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-93 dBm (5G)</name>
+    <description>Hora: 18:09 | RSRP: -93 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-106 dBm (5G)</name>
+    <description>Hora: 18:10 | RSRP: -106 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-103 dBm (5G)</name>
+    <description>Hora: 18:10 | RSRP: -103 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-81 dBm (5G)</name>
+    <description>Hora: 18:11 | RSRP: -81 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-90 dBm (5G)</name>
+    <description>Hora: 18:11 | RSRP: -90 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-81 dBm (5G)</name>
+    <description>Hora: 18:12 | RSRP: -81 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-88 dBm (5G)</name>
+    <description>Hora: 18:12 | RSRP: -88 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-89 dBm (5G)</name>
+    <description>Hora: 18:13 | RSRP: -89 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-109 dBm (5G)</name>
+    <description>Hora: 7:35 | RSRP: -109 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0594,-11.9802,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-106 dBm (5G)</name>
+    <description>Hora: 7:36 | RSRP: -106 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0571,-11.9865,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-99 dBm (5G)</name>
+    <description>Hora: 7:36 | RSRP: -99 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0545,-11.995,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-103 dBm (5G)</name>
+    <description>Hora: 7:37 | RSRP: -103 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.052,-12.0012,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-91 dBm (5G)</name>
+    <description>Hora: 7:37 | RSRP: -91 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0465,-12.015,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-97 dBm (5G)</name>
+    <description>Hora: 7:38 | RSRP: -97 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0421,-12.0294,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-108 dBm (5G)</name>
+    <description>Hora: 7:38 | RSRP: -108 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0398,-12.0355,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-79 dBm (5G)</name>
+    <description>Hora: 7:39 | RSRP: -79 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.036,-12.0401,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-92 dBm (5G)</name>
+    <description>Hora: 7:39 | RSRP: -92 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0345,-12.045,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-94 dBm (5G)</name>
+    <description>Hora: 7:40 | RSRP: -94 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.033,-12.052,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-94 dBm (5G)</name>
+    <description>Hora: 7:40 | RSRP: -94 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0315,-12.058,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-117 dBm (5G)</name>
+    <description>Hora: 7:41 | RSRP: -117 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.03,-12.0645,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-84 dBm (5G)</name>
+    <description>Hora: 7:41 | RSRP: -84 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0285,-12.071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-89 dBm (5G)</name>
+    <description>Hora: 7:42 | RSRP: -89 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.027,-12.075,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-95 dBm (5G)</name>
+    <description>Hora: 7:42 | RSRP: -95 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.025,-12.0805,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-91 dBm (5G)</name>
+    <description>Hora: 7:43 | RSRP: -91 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0235,-12.084,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-80 dBm (5G)</name>
+    <description>Hora: 7:43 | RSRP: -80 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-88 dBm (5G)</name>
+    <description>Hora: 7:43 | RSRP: -88 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-102 dBm (5G)</name>
+    <description>Hora: 7:44 | RSRP: -102 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-85 dBm (5G)</name>
+    <description>Hora: 7:45 | RSRP: -85 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-79 dBm (LTE)</name>
+    <description>Hora: 7:45 | RSRP: -79 dBm | Tecnología: LTE</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-81 dBm (5G)</name>
+    <description>Hora: 7:46 | RSRP: -81 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-122 dBm (5G)</name>
+    <description>Hora: 7:46 | RSRP: -122 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-83 dBm (5G)</name>
+    <description>Hora: 7:46 | RSRP: -83 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-93 dBm (5G)</name>
+    <description>Hora: 7:47 | RSRP: -93 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-81 dBm (5G)</name>
+    <description>Hora: 7:47 | RSRP: -81 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-88 dBm (5G)</name>
+    <description>Hora: 7:48 | RSRP: -88 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-87 dBm (5G)</name>
+    <description>Hora: 7:48 | RSRP: -87 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-110 dBm (5G)</name>
+    <description>Hora: 7:49 | RSRP: -110 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-107 dBm (5G)</name>
+    <description>Hora: 7:49 | RSRP: -107 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-90 dBm (5G)</name>
+    <description>Hora: 7:50 | RSRP: -90 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-84 dBm (5G)</name>
+    <description>Hora: 7:50 | RSRP: -84 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-95 dBm (5G)</name>
+    <description>Hora: 7:51 | RSRP: -95 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-105 dBm (5G)</name>
+    <description>Hora: 7:51 | RSRP: -105 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-118 dBm (5G)</name>
+    <description>Hora: 7:52 | RSRP: -118 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-115 dBm (5G)</name>
+    <description>Hora: 7:52 | RSRP: -115 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-88 dBm (5G)</name>
+    <description>Hora: 7:53 | RSRP: -88 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-104 dBm (5G)</name>
+    <description>Hora: 7:54 | RSRP: -104 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-103 dBm (5G)</name>
+    <description>Hora: 7:54 | RSRP: -103 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-87 dBm (5G)</name>
+    <description>Hora: 7:55 | RSRP: -87 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-87 dBm (5G)</name>
+    <description>Hora: 7:55 | RSRP: -87 dBm | Tecnología: 5G</description>
+    <styleUrl>#regular_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-74 dBm (5G)</name>
+    <description>Hora: 7:56 | RSRP: -74 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-69 dBm (5G)</name>
+    <description>Hora: 7:56 | RSRP: -69 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-123 dBm (5G)</name>
+    <description>Hora: 7:56 | RSRP: -123 dBm | Tecnología: 5G</description>
+    <styleUrl>#mala_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-82 dBm (5G)</name>
+    <description>Hora: 7:57 | RSRP: -82 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-83 dBm (5G)</name>
+    <description>Hora: 7:57 | RSRP: -83 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-79 dBm (5G)</name>
+    <description>Hora: 7:58 | RSRP: -79 dBm | Tecnología: 5G</description>
+    <styleUrl>#buena_senal</styleUrl>
+    <Point>
+      <coordinates>-77.0227,-12.0862,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
